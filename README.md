@@ -1,0 +1,2 @@
+# AI-Based-Restoration-of-Degraded-Images-for-Semiconductor-Inspection
+AI-based semiconductor image restoration using deep learning. The model restores grayscale inspection images degraded by speckle noise, Gaussian noise, and low resolution. Trained on paired degraded and ground-truth images, it focuses on accurate detail recovery, noise removal, super-resolution, strong OOD generalization, and fast inference.
